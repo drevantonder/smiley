@@ -14,7 +14,10 @@
     $(".smiley-picker").toggleClass("hidden");
   }
 });
-for (i = 128512; i < 128591; i++) {
+for (i = 128512; i < 128576; i++) {
+    $(".smiley-picker").append("<button type='button' class='smiley'>&#"+i+"</button>");
+}
+for (i = 128581; i < 128591; i++) {
     $(".smiley-picker").append("<button type='button' class='smiley'>&#"+i+"</button>");
 }
 $(document).ready(function() {
