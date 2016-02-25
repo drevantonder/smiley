@@ -1,7 +1,7 @@
 # smiley
  a simple emoticon picker using jquery
  
- To add the emoticon picker download the repository, add `<link rel="stylesheet" type="text/css" href="css/smiley.css">` in your `<head>`
+ To add the emoticon picker download the repository, upload `smiley.css` and `smiley.js` to your server, and add `<link rel="stylesheet" type="text/css" href="css/smiley.css">` in your `<head>`
  then either add `<script scr="scripts/smiley.js"></script>` or add 
  ```
  <script>
