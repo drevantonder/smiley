@@ -35,5 +35,5 @@ $(document).ready(function() {
   </div>
 </div>
 ```
-add your own css and class to make it look better.
+add your own css and classes to make it look better.
 Please report any issues.
