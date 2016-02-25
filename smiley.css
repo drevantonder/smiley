@@ -1,0 +1,40 @@
+.smiley-button {
+  background-color: inherit;
+  border: none;
+  display: block;
+  overflow: scroll;
+  margin: 0;
+  padding: 0;
+  width: 2em;
+  height: 2em;
+  font-size: 1em;
+}
+.smiley-button:hover {
+  background: #d3d3d3;
+}
+.smiley-picker {
+  background-color: white;
+  width: 14em;
+  height: 14em;
+  display: block;
+  border: 1px solid black;
+  overflow: scroll;
+}
+
+.hidden {
+  display: none;
+}
+
+.smiley {
+  background: none;
+  border: none;
+  margin: 0;
+  padding: 0;
+  width: 2em;
+  height: 2em;
+  font-size: 2em;
+}
+
+.smiley:hover {
+  background: #d3d3d3;
+}
