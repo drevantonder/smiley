@@ -1,5 +1,5 @@
-# smiley
- a simple emoticon picker using jquery [Demo](https://jsfiddle.net/DrevanTonder/96mreuLq/)
+# Smiley
+ A simple emoticon picker using jquery [Demo](https://jsfiddle.net/DrevanTonder/96mreuLq/)
  
  To add the emoticon picker download the repository, upload `smiley.css` and `smiley.js` to your server, and add `<link rel="stylesheet" type="text/css" href="css/smiley.css">` in your `<head>`
  then either add `<script scr="scripts/smiley.js"></script>` or add 
