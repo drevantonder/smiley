@@ -30,12 +30,10 @@ $(document).ready(function() {
  In your `<textarea>` or `<input>` add `class="smiley-input"` 
  below the `<textarea>` add 
  ```
- <div smiley>
-  <button type="button" class="smiley-button">
-    &#128512
-  </button>
-  <div class="smiley-picker hidden">
-  </div>
+<button type="button" class="smiley-button">
+  &#128512
+</button>
+<div class="smiley-picker hidden">
 </div>
 ```
 add your own css and classes to make it look better.
