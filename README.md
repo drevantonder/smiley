@@ -28,7 +28,7 @@ $(document).ready(function() {
  </script>
  ```
  In your `<textarea>` or `<input>` add `class="smiley-input"` 
- below the `<textarea>` add 
+ and below the `<textarea>` add 
  ```
 <button type="button" class="smiley-button">
   &#128512
